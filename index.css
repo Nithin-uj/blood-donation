@@ -13,7 +13,7 @@ body{
     font-weight: bolder;
 }
 #group1{
-    background-image: url("images/headimg.jpg");
+    background-image: url("headimg.jpg");
     background-size: cover;
     bottom: 0;
 }
@@ -112,7 +112,7 @@ body{
 
   #left{
     width: 25vw;
-    background-image: url("images/navimg1.jpg");
+    background-image: url("navimg1.jpg");
     background-color: rgb(5, 5, 19);
     background-repeat:round;
     background-size:auto;
@@ -262,24 +262,24 @@ body{
   }
 
   .reg{
-    background-image: url("images/regbgimg.jpg");
+    background-image: url("regbgimg.jpg");
     background-size: cover;
     background-blend-mode:hard-light;
   }
 
   .pod{
-    background-image: url("images/podbg.jpg");
+    background-image: url("podbg.jpg");
     background-size: cover;
     background-blend-mode:multiply;
   }
 
   .eg{
-    background-image: url("images/egbg.jpeg");
+    background-image: url("egbg.jpeg");
     background-size: cover;
     background-blend-mode: soft-light;
   }
   .pd{
-    background-image: url("images/pdbg.jpg");
+    background-image: url("pdbg.jpg");
     background-size: cover;
     background-blend-mode: multiply;
   }
